@@ -1,27 +1,25 @@
-# Temperature-Conversion-App
-A simple yet elegant Flutter application to convert temperatures between Fahrenheit and Celsius. The app features a professional UI with gradient backgrounds, custom fonts, and responsive design that works well in both portrait and landscape modes.
+# Temperature_Conversion_App
 
-## Demo 
+## Project Overview
+The Temperature Conversion App is a simple and intuitive application designed to convert temperatures between different units: Celsius, Fahrenheit, and Kelvin. Users can input a temperature value in one unit, select the desired target unit, and get an instant conversion result. This app is perfect for anyone who needs quick temperature conversions, whether for everyday tasks or scientific purposes.
+
+## Demo Video of Temperature_Conversion_App
 
 - Link to the video recording: https://drive.google.com/file/d/1wwjpLpCIgVJEkD4gh05NEbHcYdPcbXoS/view?usp=sharing
 
+## How to Use
+1. Enter the temperature value.
+2. Select the input and output units.
+3. Press the "Convert" button to get the result.
+
 ## Features
 
-- Convert temperatures between Fahrenheit (F) and Celsius (C)
-- Displays conversion history with the most recent result at the top
 - Responsive design for both portrait and landscape orientations
+- Responsive design for both portrait and landscape orientations Convert temperatures between Fahrenheit (F) and Celsius (C)
+- Displays conversion history with the most recent result at the top
 - Gradient background and custom fonts for a professional look
 - Clear history functionality
-
-## Screenshots
-
-### Portrait Mode
-![Portrait mode](https://github.com/user-attachments/assets/bcc07e97-8570-4e47-b8f8-4c1752588dc0)
-
-### Landscape Mode
-![Landscape mode](https://github.com/user-attachments/assets/e85152f7-ff97-43f0-87e2-de11013cc0de)
-
-
+- Error handling for invalid inputs and empty fields.
 
 
 ### Getting Started
@@ -36,13 +34,13 @@ A simple yet elegant Flutter application to convert temperatures between Fahrenh
 1. Clone the repository:
 
 ```
- git clone: https://github.com/ajokkuechajokdeng/Temperature-Conversion-App.git
+ git clone: https://github.com/Geu-Pro2023/Temperature_Conversion_App
 ```
 
 2. Navigate to the project directory:
 
 ```
- cd temperature_conversion_app
+ cd Temperature_Conversion_App
 ```
 
 3. Install dependencies:
@@ -57,6 +55,6 @@ flutter pub get
 flutter run
 ```
 
-### Acknowledgements
-- Flutter team for the awesome framework
-
+### Special Thanks
+I want to express my gratitude to the following for their invaluable contributions:
+- The Dart and Flutter teams for providing robust tools and frameworks.
