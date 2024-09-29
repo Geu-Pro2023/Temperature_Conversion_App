@@ -6,6 +6,14 @@ The Temperature Conversion App is a simple and intuitive application designed to
 ## Demo Video of Temperature_Conversion_App
 
 - Link to the video recording: https://drive.google.com/file/d/1PXa_eNMEkiqzQLmot641Bjc6x8FuPWwI/view?usp=sharing
+
+## Screenshots
+
+### Portrait Mode
+![Portrait mode](https://github.com/user-attachments/assets/bcc07e97-8570-4e47-b8f8-4c1752588dc0)
+
+### Landscape Mode
+![Landscape mode](https://github.com/user-attachments/assets/e85152f7-ff97-43f0-87e2-de11013cc0de)
   
 ## How to Use
 1. Enter the temperature value.
