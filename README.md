@@ -10,10 +10,10 @@ The Temperature Conversion App is a simple and intuitive application designed to
 ## Screenshots
 
 ### Portrait Mode
-![Portrait mode](https://github.com/user-attachments/assets/bcc07e97-8570-4e47-b8f8-4c1752588dc0)
+![Portrait mode](https://github.com/Geu-Pro2023/Temperature_Conversion_App/blob/bdafb0a8372fda1821c9823d8412403f94aa07a4/temperature_app/Screenshot%202024-09-27%20020730.png)
 
 ### Landscape Mode
-![Landscape mode](https://github.com/user-attachments/assets/e85152f7-ff97-43f0-87e2-de11013cc0de)
+![Landscape mode](https://github.com/Geu-Pro2023/Temperature_Conversion_App/blob/bdafb0a8372fda1821c9823d8412403f94aa07a4/temperature_app/Screenshot%202024-09-27%20020927.png)
   
 ## How to Use
 1. Enter the temperature value.
